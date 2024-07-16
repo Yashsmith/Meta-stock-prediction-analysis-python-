@@ -1,1 +1,1 @@
-# Meta-stock-prediction-analysis-python-
+# Meta stockprice prediction and analysis model
